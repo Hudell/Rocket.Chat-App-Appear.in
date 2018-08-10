@@ -1,0 +1,15 @@
+{
+    "id": "8a142a87-4ab5-466e-9ae0-bc95a7e89bb9",
+    "version": "1.0.0",
+    "requiredApiVersion": "^0.9.13",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Pierre Lehnen",
+        "homepage": "https://rocket.chat",
+        "support": "https://rocket.chat"
+    },
+    "name": "Appear.In",
+    "nameSlug": "appearin",
+    "classFile": "AppearInApp.ts",
+    "description": "Generate an appear.in video meeting URL."
+}
